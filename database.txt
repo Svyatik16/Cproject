@@ -1,0 +1,4 @@
+# База данных ПО
+
+Word|300,00|Program for editing|Release|20.10.1996|60000|Windows|4,9
+Obs studio|400,00|Record of screen|Release|3.2.2007|400000|Linux|4,0
